@@ -1,0 +1,16 @@
+/Servers
+/RemoteSystemsTempFiles
+/.metadata
+/.recommenders/
+/ZZZ
+
+*.ba_
+*.classpath
+*.project
+*.jsdtscope
+*.prefs
+*.component
+*.container
+*.name
+*.MF
+*.class
